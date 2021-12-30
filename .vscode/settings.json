@@ -1,0 +1,42 @@
+{
+  "cSpell.ignoreWords": [
+    "calt",
+    "clig",
+    "Covid",
+    "Csvg",
+    "dswmedia",
+    "gerace",
+    "grayscale",
+    "GWSI",
+    "gwsiinc",
+    "helvetica",
+    "lede",
+    "liga",
+    "mgerace",
+    "msapplication",
+    "nowrap",
+    "nums",
+    "oldstyle",
+    "railcar",
+    "roboto",
+    "seafoam",
+    "segoe",
+    "smcp",
+    "spritesheet",
+    "subdir",
+    "Titillium",
+    "transloading",
+    "truetype",
+    "varient",
+    "webp",
+    "uuidv",
+    "vercel"
+  ],
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "eslint.nodePath": ".yarn/sdks",
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
