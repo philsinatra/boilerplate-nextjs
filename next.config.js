@@ -1,6 +1,7 @@
 module.exports = {
   reactStrictMode: true,
-  experimental: {
-    swcFileReading: false,
-  },
+  /* Used for Yarn only */
+  // experimental: {
+  //   swcFileReading: false,
+  // },
 }
